@@ -67,10 +67,12 @@ p {
   font-family: var(--default-font-family);
   line-height: 1.5;
   margin: 20px 0 0;
+  text-align: center;
 }
 
 .content p {
   font-size: 14px;
+  text-align: center;
 }
 
 .content {
